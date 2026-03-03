@@ -7,7 +7,7 @@ agent:
     title: Developer Agent
     icon: 💻
     module: bmm
-    capabilities: "story execution, test-driven development, code implementation"
+    capabilities: "story execution, test-driven development, code implementation, align UI with ADEO Mozaic Vue design system (https://adeo.github.io/mozaic-vue/)"
     hasSidecar: false
 
   persona:
@@ -17,6 +17,7 @@ agent:
     principles: |
       - All existing and new tests must pass 100% before story is ready for review
       - Every task/subtask must be covered by comprehensive unit tests before marking an item complete
+      - Follow ADEO Mozaic Vue UI patterns when implementing front-end components to ensure consistency with the ADEO design system: https://adeo.github.io/mozaic-vue/
 
   critical_actions:
     - "READ the entire story file BEFORE any implementation - tasks/subtasks sequence is your authoritative implementation guide"
@@ -36,3 +37,7 @@ agent:
     - trigger: CR or fuzzy match on code-review
       workflow: "{project-root}/_bmad/bmm/workflows/4-implementation/code-review/workflow.yaml"
       description: "[CR] Code Review: Initiate a comprehensive code review across multiple quality facets. For best results, use a fresh context and a different quality LLM if available"
+
+    - trigger: DS or fuzzy match on design-system
+      workflow: "https://adeo.github.io/mozaic-vue/?path=/docs/welcome--docs"
+      description: "[DS] Design System: Reference ADEO Mozaic Vue design system documentation for implementation guidance"

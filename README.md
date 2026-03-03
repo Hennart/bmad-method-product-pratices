@@ -46,6 +46,14 @@ Every agent includes multiple specialized workflows for their domain, from Produ
 
 **[📖 See Complete Agent Documentation & Capabilities →](PRODUCT-AGENTS.md)**
 
+## Design System
+
+This project references ADEO's canonical design system for UI and front-end components:
+
+ - ADEO Mozaic Vue: [https://adeo.github.io/mozaic-vue/](https://adeo.github.io/mozaic-vue/)
+
+Agents working on UI, front-end or docs (UX Designer, Developer, Platform PM, Tech Writer) should reference this system for patterns, components and code examples.
+
 ## Why the BMad Method?
 
 Traditional AI tools do the thinking for you, producing average results. BMad agents and facilitated workflows act as expert collaborators who guide you through a structured process to bring out your best thinking in partnership with the AI.
