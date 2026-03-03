@@ -1,131 +1,131 @@
-# 🏢 ADEO Product Operating Model - Guide Complet
+# 🏢 ADEO Product Operating Model - Complete Guide
 
-## Vue d'Ensemble
+## Overview
 
-Le **Product Operating Model ADEO** est un framework stratégique structuré en **7 dimensions** qui définit comment les équipes produit fonctionnent, créent de la valeur et évoluent chez ADEO.
+The **ADEO Product Operating Model** is a strategic framework structured in **7 dimensions** that defines how product teams operate, create value, and evolve at ADEO.
 
 ---
 
-## 📊 Les 7 Dimensions du Product Operating Model ADEO
+## 📊 The 7 Dimensions of ADEO Product Operating Model
 
 ### 🛠️ 1. Product Ops
 
-**Objectif**: Optimiser l'efficacité opérationnelle des équipes produit
+**Objective**: Optimize operational efficiency of product teams
 
-#### Composantes:
+#### Components:
 - **Tools & Automation** 
-  - Sélection et gestion des outils (JIRA, Confluence, Analytics, etc.)
-  - Automatisation des workflows répétitifs
-  - Stack technologique produit
+  - Tool selection and management (JIRA, Confluence, Analytics, etc.)
+  - Automation of repetitive workflows
+  - Product technology stack
   
 - **Processes**
-  - Standardisation des flux de travail
-  - Templates et méthodologies communes
-  - Rituels d'équipe normalisés
+  - Workflow standardization
+  - Common templates and methodologies
+  - Normalized team rituals
   
 - **Product Playbook**
-  - Guide de référence des méthodes ADEO
-  - Best practices documentées
-  - Rituels et cérémonies standardisés
+  - ADEO methods reference guide
+  - Documented best practices
+  - Standardized rituals and ceremonies
 
-**Agent Responsable**: Pierre (ADEO Delivery Manager)  
+**Responsible Agent**: Pierre (ADEO Delivery Manager)  
 **Workflow**: `[PO] Product Ops`
 
 ---
 
 ### 💰 2. Assets Management
 
-**Objectif**: Maximiser la valeur financière des actifs produit
+**Objective**: Maximize financial value of product assets
 
-#### Composantes:
+#### Components:
 - **Monetization**
-  - Stratégies de génération de revenus
-  - Modèles de tarification (subscription, usage-based, freemium)
-  - Business models et ROI produit
-  - Pricing strategy par segment
+  - Revenue generation strategies
+  - Pricing models (subscription, usage-based, freemium)
+  - Business models and product ROI
+  - Pricing strategy by segment
 
-**Agent Responsable**: Rachel (Pricing PM) + Pierre (ADEO)  
+**Responsible Agents**: Rachel (Pricing PM) + Pierre (ADEO)  
 **Workflow**: `[AM] Assets Monetization`
 
 ---
 
-### 🤖 3. AI (Intelligence Artificielle)
+### 🤖 3. AI (Artificial Intelligence)
 
-**Objectif**: Exploiter l'IA pour améliorer le produit ET le travail produit
+**Objective**: Leverage AI to improve product AND product work
 
-#### Double Approche:
+#### Dual Approach:
 
-**AI for Product** (IA comme outil interne)
-- Analyse de données utilisateurs automatisée
-- Prédiction de churn
-- Recommandations de priorisation
-- Automatisation de tâches répétitives
-- Analytics augmentée
+**AI for Product** (AI as internal tool)
+- Automated user data analysis
+- Churn prediction
+- Prioritization recommendations
+- Repetitive task automation
+- Augmented analytics
 
-**AI in Product** (IA comme feature utilisateur)
-- Fonctionnalités d'IA dans l'expérience utilisateur
-- Personnalisation intelligente
-- Assistants conversationnels
-- Recommandations produits
+**AI in Product** (AI as user feature)
+- AI features in user experience
+- Intelligent personalization
+- Conversational assistants
+- Product recommendations
 - Computer vision, NLP, ML features
 
-**Agent Responsable**: Jordan (AI PM) + Pierre (ADEO)  
+**Responsible Agents**: Jordan (AI PM) + Pierre (ADEO)  
 **Workflow**: `[AI] AI Integration`
 
 ---
 
 ### 📣 4. Product Marketing
 
-**Objectif**: Aligner marketing, communication et vision produit
+**Objective**: Align marketing, communication and product vision
 
-#### Composantes:
+#### Components:
 
 **Go To Market (GTM)**
-- Stratégies de lancement produit
-- Segmentation et targeting
-- Positionnement concurrentiel
-- Canaux d'acquisition
-- Launch timeline et milestones
+- Product launch strategies
+- Segmentation and targeting
+- Competitive positioning
+- Acquisition channels
+- Launch timeline and milestones
 
 **Communication Framework**
-- Structure des messages internes/externes
-- Storytelling produit
+- Internal/external message structure
+- Product storytelling
 - Stakeholder communication
-- Release notes et annonces
-- Documentation utilisateur
+- Release notes and announcements
+- User documentation
 
 **Roadmaps**
-- Visualisation de la vision long terme
-- Communication de la stratégie
-- Alignement des équipes
-- Transparence avec les stakeholders
-- Planning tri-annuel et annuel
+- Long-term vision visualization
+- Strategy communication
+- Team alignment
+- Stakeholder transparency
+- Quarterly and annual planning
 
-**Agents Responsables**: Sarah (Product Strategist) + Pierre (ADEO)  
+**Responsible Agents**: Sarah (Product Strategist) + Pierre (ADEO)  
 **Workflows**: `[GT] GTM Strategy`, `[RM] Create Roadmap`
 
 ---
 
 ### 🔄 5. Product Lifecycle
 
-**Objectif**: Cadrer le développement produit par phases et jalons
+**Objective**: Frame product development by phases and milestones
 
-#### Composantes:
+#### Components:
 
-**Steps & Gates** (Phases et Jalons)
+**Steps & Gates** (Phases and Milestones)
 ```
 Discovery → Validation → Development → Launch → Growth → Maturity
     ↓           ↓             ↓           ↓        ↓         ↓
   Gate 1     Gate 2       Gate 3      Gate 4   Gate 5    Gate 6
 ```
 
-Chaque **Gate** = Point de validation obligatoire avant de passer à la phase suivante
-- Critères de succès définis
-- Décision Go/No-Go
-- Revue par les stakeholders
-- Documentation requise
+Each **Gate** = Mandatory validation point before moving to next phase
+- Defined success criteria
+- Go/No-Go decision
+- Stakeholder review
+- Required documentation
 
-**Activities** (Tâches par phase)
+**Activities** (Tasks by phase)
 - Discovery: Research, Problem validation, Opportunity sizing
 - Validation: Solution validation, Prototyping, User testing
 - Development: Build, Test, Iterate
@@ -133,94 +133,94 @@ Chaque **Gate** = Point de validation obligatoire avant de passer à la phase su
 - Growth: Optimization, Feature expansion
 - Maturity: Retention focus, Efficiency
 
-**Agents Responsables**: Pierre (ADEO) + Sarah (Strategist) + John (PM)  
+**Responsible Agents**: Pierre (ADEO) + Sarah (Strategist) + John (PM)  
 **Workflow**: `[PL] Product Lifecycle`
 
 ---
 
 ### 👥 6. Product Culture & People
 
-**Objectif**: Développer les talents et la culture produit
+**Objective**: Develop talent and product culture
 
-#### Composantes:
+#### Components:
 
 **Career Path**
-- Définition des rôles produit (APM, PM, SPM, GPM, CPO)
-- Progression de carrière claire
-- Compétences requises par niveau
-- Mobilité interne
-- Plan de développement individuel
+- Product role definitions (APM, PM, SPM, GPM, CPO)
+- Clear career progression
+- Required skills by level
+- Internal mobility
+- Individual development plan
 
 **Onboarding & Training**
-- Acculturation des nouveaux arrivants
-- Formation initiale au Product Operating Model
+- New member onboarding
+- Initial Product Operating Model training
 - Product Playbook training
-- Mentoring et coaching
-- Montée en compétences continue
-- Certifications et workshops
+- Mentoring and coaching
+- Continuous skill development
+- Certifications and workshops
 
-**Agents Responsables**: Pierre (ADEO) + Équipe RH  
+**Responsible Agents**: Pierre (ADEO) + HR Team  
 **Workflow**: `[PC] Product Culture`
 
 ---
 
 ### 📊 7. Adeo Product Grade
 
-**Objectif**: Évaluer et améliorer la maturité globale
+**Objective**: Assess and improve overall maturity
 
-#### Triple Évaluation:
+#### Triple Evaluation:
 
-**Product Maturity** (Qualité intrinsèque du produit)
-- Vision et stratégie claires
+**Product Maturity** (Intrinsic product quality)
+- Clear vision and strategy
 - Product-Market Fit
-- Qualité de l'expérience utilisateur
-- Performance technique
-- Innovation et différenciation
-- Metrics et data-driven decisions
+- User experience quality
+- Technical performance
+- Innovation and differentiation
+- Metrics and data-driven decisions
 
-**Org. Maturity** (Structuration de l'organisation)
-- Clarté des rôles et responsabilités
-- Processus et rituels établis
-- Collaboration cross-fonctionnelle
-- Agilité organisationnelle
-- Tools et infrastructure
-- Gouvernance produit
+**Org. Maturity** (Organization structure)
+- Clear roles and responsibilities
+- Established processes and rituals
+- Cross-functional collaboration
+- Organizational agility
+- Tools and infrastructure
+- Product governance
 
-**People Maturity** (Compétences des collaborateurs)
-- Niveau d'expertise produit
-- Autonomie et ownership
+**People Maturity** (Collaborator competencies)
+- Product expertise level
+- Autonomy and ownership
 - Soft skills (communication, leadership)
-- Connaissance du domaine
-- Capacité d'innovation
-- Mindset produit
+- Domain knowledge
+- Innovation capacity
+- Product mindset
 
-**Système de Notation**:
+**Rating System**:
 - Grade A: Excellence (90-100%)
-- Grade B: Avancé (75-89%)
-- Grade C: Intermédiaire (60-74%)
-- Grade D: Débutant (40-59%)
+- Grade B: Advanced (75-89%)
+- Grade C: Intermediate (60-74%)
+- Grade D: Beginner (40-59%)
 - Grade E: Initial (<40%)
 
-**Agent Responsable**: Pierre (ADEO) + Management  
+**Responsible Agent**: Pierre (ADEO) + Management  
 **Workflow**: `[PG] Product Grade`
 
 ---
 
 ## 🔗 Mapping: Dimensions ↔ Agents
 
-| Dimension | Agent Principal | Agents Secondaires |
-|-----------|----------------|-------------------|
+| Dimension | Primary Agent | Secondary Agents |
+|-----------|--------------|-------------------|
 | 🛠️ Product Ops | Pierre (ADEO) | Bob (Scrum Master) |
 | 💰 Assets Management | Rachel (Pricing PM) | Pierre (ADEO) |
 | 🤖 AI | Jordan (AI PM) | Pierre (ADEO) |
 | 📣 Product Marketing | Sarah (Strategist) | Pierre (ADEO) |
 | 🔄 Product Lifecycle | Pierre (ADEO) | Sarah + John + Lisa |
-| 👥 Product Culture | Pierre (ADEO) | RH / Management |
-| 📊 Adeo Product Grade | Pierre (ADEO) | Tous les agents |
+| 👥 Product Culture | Pierre (ADEO) | HR / Management |
+| 📊 Adeo Product Grade | Pierre (ADEO) | All agents |
 
 ---
 
-## 🎯 Workflows par Dimension
+## 🎯 Workflows by Dimension
 
 ### Dimension 1: Product Ops
 - `[PO]` Product Ops Setup
@@ -261,42 +261,42 @@ Chaque **Gate** = Point de validation obligatoire avant de passer à la phase su
 
 ---
 
-## 🚀 Utilisation Pratique
+## 🚀 Practical Usage
 
-### Scenario 1: Nouveau Produit
+### Scenario 1: New Product
 ```
-1. [PL] Product Lifecycle → Définir les phases
+1. [PL] Product Lifecycle → Define phases
 2. [CI] Create Initiative → Discovery phase
-3. [GT] GTM Strategy → Planifier le launch
-4. [AM] Assets Monetization → Définir le business model
-5. [AI] AI Integration → Identifier opportunités IA
-6. [RM] Create Roadmap → Visualiser le plan
+3. [GT] GTM Strategy → Plan launch
+4. [AM] Assets Monetization → Define business model
+5. [AI] AI Integration → Identify AI opportunities
+6. [RM] Create Roadmap → Visualize plan
 ```
 
-### Scenario 2: Optimisation Existante
+### Scenario 2: Existing Optimization
 ```
-1. [PG] Product Grade → Évaluer la maturité actuelle
-2. [PO] Product Ops → Optimiser les processus
-3. [AM] Assets Monetization → Améliorer la monétisation
-4. Lisa: [CH] Churn Prevention → Réduire l'attrition
+1. [PG] Product Grade → Assess current maturity
+2. [PO] Product Ops → Optimize processes
+3. [AM] Assets Monetization → Improve monetization
+4. Lisa: [CH] Churn Prevention → Reduce attrition
 ```
 
-### Scenario 3: Scale de l'Organisation
+### Scenario 3: Organization Scale
 ```
-1. [PC] Product Culture → Former les équipes
-2. [PO] Product Ops → Standardiser les pratiques
-3. [PG] Product Grade → Mesurer la progression
-4. [RM] Create Roadmap → Aligner la vision
+1. [PC] Product Culture → Train teams
+2. [PO] Product Ops → Standardize practices
+3. [PG] Product Grade → Measure progression
+4. [RM] Create Roadmap → Align vision
 ```
 
 ---
 
-## 📈 Indicateurs de Succès par Dimension
+## 📈 Success Indicators by Dimension
 
 ### Product Ops
-- Time to market réduit
-- Taux d'adoption des outils
-- Satisfaction équipes produit
+- Reduced time to market
+- Tool adoption rate
+- Product team satisfaction
 
 ### Assets Management
 - Revenue per product
@@ -304,7 +304,7 @@ Chaque **Gate** = Point de validation obligatoire avant de passer à la phase su
 - LTV/CAC ratio
 
 ### AI
-- Features IA adoptées
+- Adopted AI features
 - Efficiency gains (AI for Product)
 - User engagement (AI in Product)
 
@@ -330,6 +330,8 @@ Chaque **Gate** = Point de validation obligatoire avant de passer à la phase su
 
 ---
 
-**Le Product Operating Model ADEO est maintenant intégré dans vos agents !** 🎉
+**The ADEO Product Operating Model is now integrated into your agents!** 🎉
 
-Pierre peut maintenant raisonner et travailler selon ces 7 dimensions pour optimiser vos processus produit.
+Pierre can now reason and work according to these 7 dimensions to optimize your product processes.
+
+**Note**: French documentation is available in [ADEO-PRODUCT-OPERATING-MODEL-FR.md](ADEO-PRODUCT-OPERATING-MODEL-FR.md)

@@ -1,191 +1,206 @@
-# 🏢 Agent ADEO - Delivery Manager
+# 🏢 ADEO Agent - Delivery Manager
 
-## Agent Créé: Pierre - ADEO Delivery Manager 🏢
+## Agent Created: Pierre - ADEO Delivery Manager 🏢
 
-### Spécialisation
-Expert en processus de delivery ADEO et structure JIRA Cloud spécifique à l'entreprise.
+### Specialization
+Expert in ADEO delivery processes and company-specific JIRA Cloud structure.
 
-## 📊 Hiérarchie ADEO JIRA Intégrée
+## 📊 Integrated ADEO JIRA Hierarchy
 
-L'agent Pierre maîtrise parfaitement la hiérarchie à 4 niveaux utilisée chez ADEO:
+The Pierre agent has perfect mastery of the 4-level hierarchy used at ADEO:
 
 ```
-🎯 Initiative (Stratégique)
-    ↓ contient plusieurs
-📦 Package (Tactique)
-    ↓ contient plusieurs
-📚 Epic (Fonctionnel)
-    ↓ contient plusieurs
-📖 Story (Opérationnel)
+🎯 Initiative (Strategic)
+    ↓ contains multiple
+📦 Package (Tactical)
+    ↓ contains multiple
+📚 Epic (Functional)
+    ↓ contains multiple
+📖 Story (Operational)
 ```
 
-### Détails de Chaque Niveau
+### Details of Each Level
 
 #### 🎯 Initiative
-- **Quoi**: Objectif stratégique majeur (pluriannuel/annuel)
-- **Représente**: Le "Pourquoi" - La vision d'ensemble
-- **Exemple**: "Construire une maison écologique et familiale"
-- **Durée**: Pluriannuel ou annuel
-- **Propriétaire**: Direction / Leadership
+- **What**: Major strategic objective (multi-year/annual)
+- **Represents**: The "Why" - The overall vision
+- **Example**: "Build an ecological and family-friendly house"
+- **Duration**: Multi-year or annual
+- **Owner**: Direction / Leadership
 
 #### 📦 Package
-- **Quoi**: Regroupement thématique d'Epics
-- **Représente**: Le "Quoi" à niveau macro - Structuration des grands chantiers
-- **Exemple**: "Phase 1: Gros Œuvre", "Phase 2: Second Œuvre"
-- **Durée**: Plusieurs trimestres
-- **Propriétaire**: Product Manager / Program Manager
+- **What**: Thematic grouping of Epics
+- **Represents**: The "What" at macro level - Major workstream structuring
+- **Example**: "Phase 1: Structural Work", "Phase 2: Finishing Work"
+- **Duration**: Several quarters
+- **Owner**: Product Manager / Program Manager
 
 #### 📚 Epic
-- **Quoi**: Grand bloc de travail ou fonctionnalité importante
-- **Représente**: Valeur utilisateur significative - Trop grand pour 1 sprint
-- **Exemple**: "Construire les fondations", "Installer la plomberie"
-- **Durée**: Plusieurs sprints (2-6)
-- **Propriétaire**: Product Owner / Feature Lead
+- **What**: Large work block or important feature
+- **Represents**: Significant user value - Too big for 1 sprint
+- **Example**: "Build foundations", "Install plumbing"
+- **Duration**: Several sprints (2-6)
+- **Owner**: Product Owner / Feature Lead
 
 #### 📖 Story (User Story)
-- **Quoi**: Demande fonctionnelle simple, du point de vue utilisateur
-- **Représente**: Incrément de valeur réalisable - Sprint-sized
-- **Exemple**: "Couler la dalle de béton", "Poser les briques du mur sud"
-- **Durée**: 1 sprint (ou moins)
-- **Propriétaire**: Development Team
+- **What**: Simple functional request, from user perspective
+- **Represents**: Achievable value increment - Sprint-sized
+- **Example**: "Pour concrete slab", "Lay bricks for south wall"
+- **Duration**: 1 sprint (or less)
+- **Owner**: Development Team
 
-## 🎯 Workflows Disponibles
+## 🎯 Available Workflows
 
-Pierre offre 11 workflows spécialisés pour ADEO:
+Pierre offers 18 specialized workflows for ADEO:
 
-### Création d'Objets
-1. **[CI] Create Initiative** - Créer une Initiative stratégique avec vision
-2. **[CP] Create Package** - Créer un Package thématique
-3. **[CE] Create Epic** - Créer une Epic fonctionnelle
-4. **[CS] Create Story** - Créer une User Story sprint-ready
+### Object Creation
+1. **[CI] Create Initiative** - Create strategic Initiative with vision
+2. **[CP] Create Package** - Create thematic Package
+3. **[CE] Create Epic** - Create functional Epic
+4. **[CS] Create Story** - Create sprint-ready User Story
 
-### Gestion du Backlog & Roadmap
-5. **[BK] Build Backlog** - Construire un backlog complet respectant la hiérarchie
-6. **[RM] Create Roadmap** - Créer une roadmap structurée par Initiatives/Packages
+### Backlog & Roadmap Management
+5. **[BK] Build Backlog** - Build complete backlog respecting hierarchy
+6. **[RM] Create Roadmap** - Create roadmap structured by Initiatives/Packages
 
-### Validation & Qualité
-7. **[VH] Validate Hierarchy** - Valider la hiérarchie JIRA complète
-8. **[SR] Story Refinement** - Raffiner des Stories pour les rendre sprint-ready
+### Validation & Quality
+7. **[VH] Validate Hierarchy** - Validate complete JIRA hierarchy
+8. **[SR] Story Refinement** - Refine Stories to make them sprint-ready
 
-### Décomposition
-9. **[SP] Split Epic** - Décomposer une Epic en Stories dimensionnées
+### Decomposition
+9. **[SP] Split Epic** - Break down Epic into sized Stories
 
-### Export & Intégration
-10. **[JE] JIRA Export** - Générer un fichier d'import JIRA structuré
+### Product Operating Model Dimensions
+10. **[PL] Product Lifecycle** - Define Steps & Gates and Activities
+11. **[GT] GTM Strategy** - Create Go-To-Market strategy
+12. **[PO] Product Ops** - Optimize tools, processes and playbook
+13. **[AI] AI Integration** - Define AI for Product and AI in Product
+14. **[AM] Assets Monetization** - Product monetization strategy
+15. **[PG] Product Grade** - Assess Product/Org/People Maturity
+16. **[PC] Product Culture** - Career Path, Onboarding & Training
+
+### Export & Integration
+17. **[JE] JIRA Export** - Generate structured JIRA import file
 
 ### Support
-11. **[AH] ADEO Help** - Aide sur les processus de delivery ADEO
+18. **[AH] ADEO Help** - Help on ADEO delivery processes
 
-## 🎨 Exemples d'Usage
+## 🎨 Usage Examples
 
-### Cas 1: Nouveau Projet
+### Case 1: New Project
 ```
-Utilisateur: "Je dois lancer un nouveau projet de refonte du site e-commerce"
+User: "I need to launch a new e-commerce site redesign project"
 
-Pierre guide:
-1. [CI] Create Initiative → "Refonte E-commerce 2026"
+Pierre guides:
+1. [CI] Create Initiative → "E-commerce Redesign 2026"
 2. [CP] Create Package → "Phase 1: UX/UI", "Phase 2: Backend", etc.
-3. [CE] Create Epic → Pour chaque Package
-4. [CS] Create Story → Décomposer chaque Epic
-5. [VH] Validate Hierarchy → Vérifier la cohérence
-6. [RM] Create Roadmap → Visualiser le plan
+3. [CE] Create Epic → For each Package
+4. [CS] Create Story → Break down each Epic
+5. [VH] Validate Hierarchy → Check consistency
+6. [RM] Create Roadmap → Visualize the plan
 ```
 
-### Cas 2: Backlog Existant à Structurer
+### Case 2: Existing Backlog to Structure
 ```
-Utilisateur: "J'ai 50 stories en vrac, aide-moi à les organiser"
+User: "I have 50 stories in bulk, help me organize them"
 
-Pierre guide:
-1. [AH] ADEO Help → Comprendre le contexte
-2. [CE] Create Epic → Regrouper par thèmes
-3. [CP] Create Package → Organiser les Epics
-4. [CI] Create Initiative → Définir la vision globale
-5. [VH] Validate Hierarchy → Vérifier la structure
-6. [BK] Build Backlog → Finaliser et prioriser
-```
-
-### Cas 3: Roadmap Trimestrielle
-```
-Utilisateur: "Je dois créer la roadmap Q2 2026"
-
-Pierre guide:
-1. [RM] Create Roadmap → Partir des Initiatives existantes
-2. [CP] Create Package → Séquencer par trimestre
-3. [SP] Split Epic → Dimensionner pour les sprints
-4. [JE] JIRA Export → Générer l'import JIRA
+Pierre guides:
+1. [AH] ADEO Help → Understand context
+2. [CE] Create Epic → Group by themes
+3. [CP] Create Package → Organize Epics
+4. [CI] Create Initiative → Define global vision
+5. [VH] Validate Hierarchy → Check structure
+6. [BK] Build Backlog → Finalize and prioritize
 ```
 
-## ✅ Règles de Validation
+### Case 3: Quarterly Roadmap
+```
+User: "I need to create Q2 2026 roadmap"
 
-Pierre applique ces règles strictes:
+Pierre guides:
+1. [RM] Create Roadmap → Start from existing Initiatives
+2. [CP] Create Package → Sequence by quarter
+3. [SP] Split Epic → Size for sprints
+4. [JE] JIRA Export → Generate JIRA import
+```
 
-### Règle 1: Hiérarchie Obligatoire
-- ❌ Pas de Story sans Epic
-- ❌ Pas d'Epic sans Package
-- ❌ Pas de Package sans Initiative
+## ✅ Validation Rules
 
-### Règle 2: Dimensionnement
+Pierre applies these strict rules:
+
+### Rule 1: Mandatory Hierarchy
+- ❌ No Story without Epic
+- ❌ No Epic without Package
+- ❌ No Package without Initiative
+
+### Rule 2: Sizing
 - Story = 1 sprint maximum
 - Epic = 2-6 sprints
-- Package = Plusieurs trimestres
-- Initiative = Annuel ou pluriannuel
+- Package = Several quarters
+- Initiative = Annual or multi-year
 
-### Règle 3: Cohérence
-- Chaque niveau apporte de la valeur
-- Les objets enfants contribuent au parent
-- Pas de rupture dans la chaîne de valeur
+### Rule 3: Consistency
+- Each level provides value
+- Child objects contribute to parent
+- No break in value chain
 
-### Règle 4: Perspective Utilisateur
-- Stories écrites du point de vue utilisateur
-- Epics centrées sur la valeur métier
-- Packages alignés avec les objectifs business
-- Initiatives liées à la stratégie entreprise
+### Rule 4: User Perspective
+- Stories written from user point of view
+- Epics focused on business value
+- Packages aligned with business objectives
+- Initiatives linked to enterprise strategy
 
-## 🚀 Avantages de l'Agent ADEO
+## 🚀 ADEO Agent Benefits
 
-### Pour les Product Managers
-✅ Structure garantie conforme aux standards ADEO  
-✅ Roadmaps alignées avec les processus établis  
-✅ Validation automatique de la hiérarchie  
-✅ Export direct vers JIRA Cloud  
+### For Product Managers
+✅ Structure guaranteed compliant with ADEO standards  
+✅ Roadmaps aligned with established processes  
+✅ Automatic hierarchy validation  
+✅ Direct export to JIRA Cloud  
 
-### Pour les Scrum Masters
-✅ Backlogs correctement structurés  
-✅ Stories dimensionnées pour les sprints  
-✅ Traçabilité complète Initiative → Story  
-✅ Refinement guidé et efficace  
+### For Scrum Masters
+✅ Properly structured backlogs  
+✅ Stories sized for sprints  
+✅ Complete Initiative → Story traceability  
+✅ Guided and efficient refinement  
 
-### Pour les Équipes
-✅ Compréhension claire de la vision (Initiative)  
-✅ Organisation logique du travail (Package → Epic)  
-✅ Stories actionnables et claires  
-✅ Alignement avec les objectifs stratégiques  
+### For Teams
+✅ Clear understanding of vision (Initiative)  
+✅ Logical work organization (Package → Epic)  
+✅ Actionable and clear Stories  
+✅ Alignment with strategic objectives  
 
-## 🔗 Intégration avec Autres Agents
+## 🔗 Integration with Other Agents
 
-Pierre collabore avec:
-- **Sarah (Product Strategist)** - Alignement stratégique des Initiatives
-- **John (Product Manager)** - Détail des Packages et Epics
-- **Bob (Scrum Master)** - Sprint planning et story refinement
-- **Mary (Business Analyst)** - Analyse de la valeur métier
-- **Alex (Data PM)** - Metrics et KPIs par Initiative/Package
+Pierre collaborates with:
+- **Sarah (Product Strategist)** - Strategic alignment of Initiatives
+- **John (Product Manager)** - Detail of Packages and Epics
+- **Bob (Scrum Master)** - Sprint planning and story refinement
+- **Mary (Business Analyst)** - Business value analysis
+- **Alex (Data PM)** - Metrics and KPIs per Initiative/Package
+- **Rachel (Pricing PM)** - Monetization strategy (Assets Management)
+- **Jordan (AI PM)** - AI integration opportunities
+- **Lisa (Customer Success PM)** - Lifecycle and customer journey
 
-## 📋 Format JIRA Export
+## 📋 JIRA Export Format
 
-Pierre peut générer des exports structurés pour:
-- Import CSV JIRA Cloud
-- Structure hiérarchique complète
-- Champs personnalisés ADEO
-- Liens entre objets (Initiative → Package → Epic → Story)
+Pierre can generate structured exports for:
+- JIRA Cloud CSV import
+- Complete hierarchical structure
+- ADEO custom fields
+- Links between objects (Initiative → Package → Epic → Story)
 
-## 🎓 Formation Intégrée
+## 🎓 Integrated Training
 
-L'agent Pierre peut:
-- Expliquer la hiérarchie ADEO à de nouveaux membres
-- Former sur les bonnes pratiques de découpage
-- Valider la compréhension avec des exemples
-- Corriger les erreurs de structure
+The Pierre agent can:
+- Explain ADEO hierarchy to new members
+- Train on best practices for breakdown
+- Validate understanding with examples
+- Correct structure errors
+- Guide through Product Operating Model 7 dimensions
 
 ---
 
-**L'agent Pierre est maintenant prêt à travailler avec vos processus de delivery ADEO !** 🚀
+**The Pierre agent is now ready to work with your ADEO delivery processes!** 🚀
+
+**Note**: French documentation is available in [ADEO-AGENT-FR.md](ADEO-AGENT-FR.md)
