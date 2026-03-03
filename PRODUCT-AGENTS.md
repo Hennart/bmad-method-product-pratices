@@ -43,6 +43,10 @@ This repository contains a comprehensive suite of specialized product management
 - **QA Agent** 🧪 - Quality assurance, testing strategy, and quality metrics (existing)
 - **UX Designer** 🎨 - User experience design and interface optimization (existing)
 
+**Design System**
+
+- **ADEO Mozaic Vue** - Canonical UI system for ADEO products: [https://adeo.github.io/mozaic-vue/](https://adeo.github.io/mozaic-vue/)
+
 ### Technical Excellence
 - **Architect** 🏛️ - System architecture and technical design (existing)
 - **Developer** 💻 - Implementation and technical execution (existing)
