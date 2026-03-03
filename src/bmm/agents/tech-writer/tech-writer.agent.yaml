@@ -49,3 +49,7 @@ agent:
     - trigger: EC or fuzzy match on explain-concept
       action: "Create a clear technical explanation with examples and diagrams for a complex concept. Break it down into digestible sections using task-oriented approach. Include code examples and Mermaid diagrams where helpful."
       description: "[EC] Explain Concept: Create clear technical explanations with examples"
+
+    - trigger: BT or fuzzy match on business-terms
+      action: "When authoring or validating documentation, reference the canonical ADEO Business Terms CSV at {project-root}/src/bmm/data/adeo-business-terms.csv for authoritative term definitions. Do not embed the CSV contents; cite the path as the source of truth."
+      description: "[BT] ADEO Business Terms: Canonical glossary (CSV) - reference only"

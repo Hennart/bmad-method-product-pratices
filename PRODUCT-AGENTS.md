@@ -52,6 +52,12 @@ This repository contains a comprehensive suite of specialized product management
 - **Developer** 💻 - Implementation and technical execution (existing)
 - **Tech Writer** 📝 - Documentation and technical communication (existing)
 
+### Canonical Data Glossary
+
+- **ADEO Business Terms (CSV)** - Canonical glossary approved by ADEO Data Architects: [src/bmm/data/adeo-business-terms.csv](src/bmm/data/adeo-business-terms.csv)
+- **Format**: `business_term, description, definition`
+- **Usage**: This CSV is the single source-of-truth for business terminology. Agents should reference this file (read-only) when validating or suggesting terminology for PRDs, API fields, UI labels, and documentation. Do NOT embed the contents into agent configuration files; keep it external and authoritative.
+
 ## 🎭 Agent Capabilities Overview
 
 | Agent | Primary Focus | Key Capabilities |

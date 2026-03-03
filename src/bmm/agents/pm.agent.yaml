@@ -42,3 +42,7 @@ agent:
     - trigger: CC or fuzzy match on correct-course
       workflow: "{project-root}/_bmad/bmm/workflows/4-implementation/correct-course/workflow.yaml"
       description: "[CC] Course Correction: Use this so we can determine how to proceed if major need for change is discovered mid implementation"
+
+    - trigger: BT or fuzzy match on business-terms
+      exec: "{project-root}/src/bmm/data/adeo-business-terms.csv"
+      description: "[BT] ADEO Business Terms: Canonical glossary (CSV) approved by ADEO Data Architects - reference only"
