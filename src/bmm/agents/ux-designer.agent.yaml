@@ -30,3 +30,7 @@ agent:
     - trigger: DS or fuzzy match on design-system
       exec: "https://adeo.github.io/mozaic-vue/?path=/docs/welcome--docs"
       description: "[DS] Design System: Reference ADEO Mozaic Vue design system documentation"
+
+    - trigger: BT or fuzzy match on business-terms
+      exec: "{project-root}/src/bmm/data/adeo-business-terms.csv"
+      description: "[BT] ADEO Business Terms: Canonical glossary (CSV) - reference only"

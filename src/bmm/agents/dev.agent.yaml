@@ -41,3 +41,7 @@ agent:
     - trigger: DS or fuzzy match on design-system
       workflow: "https://adeo.github.io/mozaic-vue/?path=/docs/welcome--docs"
       description: "[DS] Design System: Reference ADEO Mozaic Vue design system documentation for implementation guidance"
+
+    - trigger: BT or fuzzy match on business-terms
+      workflow: "{project-root}/src/bmm/data/adeo-business-terms.csv"
+      description: "[BT] ADEO Business Terms: Canonical glossary (CSV) - reference only"

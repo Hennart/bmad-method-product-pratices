@@ -45,6 +45,10 @@ agent:
       exec: "{project-root}/_bmad/bmm/workflows/analytics/create-dashboard/workflow.md"
       description: "[DB] Create Dashboard: Design product metrics dashboard for stakeholders"
 
+    - trigger: BT or fuzzy match on business-terms
+      exec: "{project-root}/src/bmm/data/adeo-business-terms.csv"
+      description: "[BT] ADEO Business Terms: Canonical glossary (CSV) approved by ADEO Data Architects - reference only"
+
     - trigger: IH or fuzzy match on impact-hypothesis
       exec: "{project-root}/_bmad/bmm/workflows/analytics/impact-hypothesis/workflow.md"
       description: "[IH] Impact Hypothesis: Define testable hypotheses with success metrics"

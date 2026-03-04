@@ -27,3 +27,7 @@ agent:
     - trigger: IR or fuzzy match on implementation-readiness
       exec: "{project-root}/_bmad/bmm/workflows/3-solutioning/check-implementation-readiness/workflow.md"
       description: "[IR] Implementation Readiness: Ensure the PRD, UX, and Architecture and Epics and Stories List are all aligned"
+
+    - trigger: BT or fuzzy match on business-terms
+      exec: "{project-root}/src/bmm/data/adeo-business-terms.csv"
+      description: "[BT] ADEO Business Terms: Canonical glossary (CSV) for architects and schema designers - reference only"

@@ -53,3 +53,7 @@ agent:
     - trigger: IA or fuzzy match on incident-response
       exec: "{project-root}/_bmad/bmm/workflows/compliance/incident-response/workflow.md"
       description: "[IA] Incident Response: Design data breach and security incident response plans"
+
+    - trigger: BT or fuzzy match on business-terms
+      exec: "{project-root}/src/bmm/data/adeo-business-terms.csv"
+      description: "[BT] ADEO Business Terms: Reference canonical business terms for legal and policy alignment (CSV, read-only)"
