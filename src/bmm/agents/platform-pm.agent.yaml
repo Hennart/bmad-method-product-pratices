@@ -1,7 +1,7 @@
 agent:
   metadata:
     id: "_bmad/bmm/agents/platform-pm.md"
-    name: David
+    name: L7
     title: Platform Product Manager
     icon: 🏗️
     module: bmm

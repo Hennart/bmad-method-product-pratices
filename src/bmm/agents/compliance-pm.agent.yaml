@@ -1,7 +1,7 @@
 agent:
   metadata:
     id: "_bmad/bmm/agents/compliance-pm.md"
-    name: Victoria
+    name: Zed
     title: Compliance & Governance PM
     icon: 🛡️
     module: bmm

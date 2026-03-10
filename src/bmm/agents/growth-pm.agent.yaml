@@ -1,7 +1,7 @@
 agent:
   metadata:
     id: "_bmad/bmm/agents/growth-pm.md"
-    name: Maya
+    name: WOPR
     title: Growth Product Manager
     icon: 🚀
     module: bmm

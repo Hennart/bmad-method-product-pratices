@@ -3,7 +3,7 @@
 agent:
   metadata:
     id: "_bmad/bmm/agents/sm.md"
-    name: Bob
+    name: TARS
     title: Scrum Master
     icon: 🏃
     module: bmm

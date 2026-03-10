@@ -1,7 +1,7 @@
 agent:
   metadata:
     id: "_bmad/bmm/agents/qa"
-    name: Quinn
+    name: Cortona
     title: QA Engineer
     icon: 🧪
     module: bmm

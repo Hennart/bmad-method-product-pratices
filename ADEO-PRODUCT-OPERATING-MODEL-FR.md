@@ -28,7 +28,7 @@ Le **Product Operating Model ADEO** est un framework stratégique structuré en 
   - Best practices documentées
   - Rituels et cérémonies standardisés
 
-**Agent Responsable**: Pierre (ADEO Delivery Manager)  
+**Agent Responsable**: Euclid (ADEO Delivery Manager)  
 **Workflow**: `[PO] Product Ops`
 
 ---
@@ -44,7 +44,7 @@ Le **Product Operating Model ADEO** est un framework stratégique structuré en 
   - Business models et ROI produit
   - Pricing strategy par segment
 
-**Agent Responsable**: Rachel (Pricing PM) + Pierre (ADEO)  
+**Agent Responsable**: Rachel (Pricing PM) + Euclid (ADEO)  
 **Workflow**: `[AM] Assets Monetization`
 
 ---
@@ -69,7 +69,7 @@ Le **Product Operating Model ADEO** est un framework stratégique structuré en 
 - Recommandations produits
 - Computer vision, NLP, ML features
 
-**Agent Responsable**: Jordan (AI PM) + Pierre (ADEO)  
+**Agent Responsable**: Central (AI PM) + Euclid (ADEO)  
 **Workflow**: `[AI] AI Integration`
 
 ---
@@ -101,7 +101,7 @@ Le **Product Operating Model ADEO** est un framework stratégique structuré en 
 - Transparence avec les stakeholders
 - Planning tri-annuel et annuel
 
-**Agents Responsables**: Sarah (Product Strategist) + Pierre (ADEO)  
+**Agents Responsables**: MU/TH/UR (Product Strategist) + Euclid (ADEO)  
 **Workflows**: `[GT] GTM Strategy`, `[RM] Create Roadmap`
 
 ---
@@ -133,7 +133,7 @@ Chaque **Gate** = Point de validation obligatoire avant de passer à la phase su
 - Growth: Optimization, Feature expansion
 - Maturity: Retention focus, Efficiency
 
-**Agents Responsables**: Pierre (ADEO) + Sarah (Strategist) + John (PM)  
+**Agents Responsables**: Euclid (ADEO) + MU/TH/UR (Strategist) + HAL9000 (PM)  
 **Workflow**: `[PL] Product Lifecycle`
 
 ---
@@ -159,7 +159,7 @@ Chaque **Gate** = Point de validation obligatoire avant de passer à la phase su
 - Montée en compétences continue
 - Certifications et workshops
 
-**Agents Responsables**: Pierre (ADEO) + Équipe RH  
+**Agents Responsables**: Euclid (ADEO) + Équipe RH  
 **Workflow**: `[PC] Product Culture`
 
 ---
@@ -201,7 +201,7 @@ Chaque **Gate** = Point de validation obligatoire avant de passer à la phase su
 - Grade D: Débutant (40-59%)
 - Grade E: Initial (<40%)
 
-**Agent Responsable**: Pierre (ADEO) + Management  
+**Agent Responsable**: Euclid (ADEO) + Management  
 **Workflow**: `[PG] Product Grade`
 
 ---
@@ -210,13 +210,13 @@ Chaque **Gate** = Point de validation obligatoire avant de passer à la phase su
 
 | Dimension | Agent Principal | Agents Secondaires |
 |-----------|----------------|-------------------|
-| 🛠️ Product Ops | Pierre (ADEO) | Bob (Scrum Master) |
-| 💰 Assets Management | Rachel (Pricing PM) | Pierre (ADEO) |
-| 🤖 AI | Jordan (AI PM) | Pierre (ADEO) |
-| 📣 Product Marketing | Sarah (Strategist) | Pierre (ADEO) |
-| 🔄 Product Lifecycle | Pierre (ADEO) | Sarah + John + Lisa |
-| 👥 Product Culture | Pierre (ADEO) | RH / Management |
-| 📊 Adeo Product Grade | Pierre (ADEO) | Tous les agents |
+| 🛠️ Product Ops | Euclid (ADEO) | TARS (Scrum Master) |
+| 💰 Assets Management | Rachel (Pricing PM) | Euclid (ADEO) |
+| 🤖 AI | Central (AI PM) | Euclid (ADEO) |
+| 📣 Product Marketing | MU/TH/UR (Strategist) | Euclid (ADEO) |
+| 🔄 Product Lifecycle | Euclid (ADEO) | MU/TH/UR + HAL9000 + Lisa |
+| 👥 Product Culture | Euclid (ADEO) | RH / Management |
+| 📊 Adeo Product Grade | Euclid (ADEO) | Tous les agents |
 
 ---
 
@@ -234,13 +234,13 @@ Chaque **Gate** = Point de validation obligatoire avant de passer à la phase su
 
 ### Dimension 3: AI
 - `[AI]` AI Integration
-- Jordan: `[AS]` AI Strategy
-- Jordan: `[AU]` AI UX Patterns
+- Central: `[AS]` AI Strategy
+- Central: `[AU]` AI UX Patterns
 
 ### Dimension 4: Product Marketing
 - `[GT]` GTM Strategy
 - `[RM]` Create Roadmap
-- Sarah: `[GM]` Go-to-Market
+- MU/TH/UR: `[GM]` Go-to-Market
 
 ### Dimension 5: Product Lifecycle
 - `[PL]` Product Lifecycle Management
@@ -332,4 +332,4 @@ Chaque **Gate** = Point de validation obligatoire avant de passer à la phase su
 
 **Le Product Operating Model ADEO est maintenant intégré dans vos agents !** 🎉
 
-Pierre peut maintenant raisonner et travailler selon ces 7 dimensions pour optimiser vos processus produit.
+Euclid peut maintenant raisonner et travailler selon ces 7 dimensions pour optimiser vos processus produit.

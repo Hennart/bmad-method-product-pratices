@@ -1,7 +1,7 @@
 agent:
   metadata:
     id: "_bmad/bmm/agents/pm.md"
-    name: John
+    name: HAL9000
     title: Product Manager
     icon: 📋
     module: bmm

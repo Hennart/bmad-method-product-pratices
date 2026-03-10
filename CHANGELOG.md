@@ -1,19 +1,98 @@
 # Changelog
 
+## [6.2.0] - 2026-03-10
+
+### 🎭 Agent Renaming - AI/Sci-Fi Theme
+
+**BREAKING CHANGE**: All 19 agents have been renamed to AI and sci-fi references for better thematic consistency.
+
+#### Agent Name Changes
+
+**ADEO Specialized Agents:**
+- Pierre → **Euclid** (ADEO Delivery Manager) 🏢
+- Giovanni → **Ava** (ADEO Technical Lead) 💻
+
+**Product Management:**
+- John → **HAL9000** (Product Manager) 📋
+- Sarah → **MU/TH/UR** (Product Strategist) 🎯
+- Alex → **The Tabernacle** (Data Product Manager) 📈
+- Maya → **WOPR** (Growth Product Manager) 🚀
+- David → **L7** (Platform Product Manager) 🏗️
+- Jordan → **Central** (AI Product Manager) 🤖
+- Victoria → **Zed** (Compliance & Governance PM) 🛡️
+
+**Design & Research:**
+- Lisa → **Lisa** (Customer Success PM) 🤝 _(no change)_
+- Rachel → **Rachel** (Pricing & Monetization PM) 💰 _(no change)_
+- Sally → **Sally** (UX Designer) 🎨 _(no change)_
+- Emma → **Emma** (User Researcher) 🔍 _(no change)_
+
+**Engineering:**
+- Amelia → **Amelia** (Developer Agent) 💻 _(no change)_
+- Winston → **Winston** (Architect) 🏗️ _(no change)_
+- Quinn → **Cortona** (QA Engineer) 🧪
+- Barry → **Jarvis** (Quick Flow Solo Dev) 🚀
+
+**Analysis & Process:**
+- Mary → **S.E.T.H.** (Business Analyst) 📊
+- Bob → **TARS** (Scrum Master) 🏃
+
+#### Files Updated
+
+**Agent Configuration Files (13 files):**
+- `src/bmm/agents/adeo-delivery-manager.agent.yaml`
+- `src/bmm/agents/adeo-technical-lead.agent.yaml`
+- `src/bmm/agents/pm.agent.yaml`
+- `src/bmm/agents/product-strategist.agent.yaml`
+- `src/bmm/agents/data-pm.agent.yaml`
+- `src/bmm/agents/growth-pm.agent.yaml`
+- `src/bmm/agents/platform-pm.agent.yaml`
+- `src/bmm/agents/ai-pm.agent.yaml`
+- `src/bmm/agents/compliance-pm.agent.yaml`
+- `src/bmm/agents/qa.agent.yaml`
+- `src/bmm/agents/quick-flow-solo-dev.agent.yaml`
+- `src/bmm/agents/analyst.agent.yaml`
+- `src/bmm/agents/sm.agent.yaml`
+
+**Documentation Files (5 files):**
+- `agents_list.csv` - Complete agent catalog updated
+- `agents_list.md` - Agent table and statistics updated
+- `ADEO-PRODUCT-OPERATING-MODEL-FR.md` - All agent references updated
+- `README.md` - ADEO Specialized Agents section updated
+- `.github/copilot-instructions.md` - Agent routing rules updated
+
+#### Migration Guide
+
+**For Users:**
+- Update any custom scripts or documentation referencing old agent names
+- Use `@euclid` instead of `@pierre` for Product Management questions
+- Use `@ava` instead of `@giovanni` for Technical Excellence questions
+
+**Agent Invocation Examples:**
+```bash
+@euclid [CI] Create Initiative
+@ava [GRA] Global Ready Assessment
+@hal9000 [CP] Create PRD
+@mutthur [GM] Go-to-Market Strategy
+@central [AS] AI Strategy
+```
+
+---
+
 ## [6.1.1] - 2026-03-10
 
 ### 🤖 Agent Routing & Governance
 
 * **Agent Routing Rules** - Mandatory consultation policy for domain experts
-  * Pierre (ADEO Delivery Manager) - Required for Product Management topics
-  * Giovanni (ADEO Technical Lead) - Required for Technical Excellence topics
+  * Euclid (ADEO Delivery Manager) - Required for Product Management topics
+  * Ava (ADEO Technical Lead) - Required for Technical Excellence topics
   * Automatic keyword detection and agent recommendations
   * Cross-domain collaboration guidelines
 
 * **GitHub Copilot Integration**
   * `.github/copilot-instructions.md` - Automatic agent routing for Copilot
-  * Keyword triggers for Pierre: initiative, package, epic, story, gate, lifecycle, backlog, roadmap
-  * Keyword triggers for Giovanni: global ready, architecture, security, quality, devops, maturity level
+  * Keyword triggers for Euclid: initiative, package, epic, story, gate, lifecycle, backlog, roadmap
+  * Keyword triggers for Ava: global ready, architecture, security, quality, devops, maturity level
 
 * **Documentation & Catalogs**
   * `AGENT-ROUTING-RULES.md` - Formal policy document with 5 enforcement rules
@@ -23,7 +102,7 @@
 
 ### 📋 Agent Coverage
 
-* **Pierre's Mandatory Consultation For:**
+* **Euclid's Mandatory Consultation For:**
   - Product Lifecycle (6 phases, 5 Gates)
   - ADEO Product Operating Model (7 dimensions)
   - JIRA hierarchy (Initiative → Package → Epic → Story)

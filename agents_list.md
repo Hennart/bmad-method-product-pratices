@@ -4,30 +4,30 @@
 
 | Nom | Icône | Titre | Domaine | Spécialités |
 |-----|-------|-------|---------|-------------|
-| Pierre | 🏢 | ADEO Delivery Manager | ADEO | Structure JIRA ADEO, Initiative-Package-Epic-Story, backlog, roadmap, processus delivery |
-| Giovanni | 💻 | ADEO Technical Lead | ADEO | Global Ready framework, standards techniques, architecture, security, quality, DevOps, API, data |
-| John | 📋 | Product Manager | Product Management | PRD, requirements, stakeholder alignment, user interviews |
-| Sarah | 🎯 | Product Strategist | Product Management | Vision produit, roadmap, OKR, positionnement stratégique, go-to-market |
-| Alex | 📈 | Data Product Manager | Product Management | Métriques, analytics, A/B testing, décisions data-driven, KPI tracking |
-| Maya | 🚀 | Growth Product Manager | Product Management | Growth loops, viral mechanics, activation, onboarding, growth experiments |
-| David | 🏗️ | Platform Product Manager | Product Management | API design, developer experience, platform strategy, ecosystem, Mozaic Vue |
-| Jordan | 🤖 | AI Product Manager | Product Management | AI/ML strategy, model evaluation, responsible AI, training data, AI UX patterns |
+| Euclid | 🏢 | ADEO Delivery Manager | ADEO | Structure JIRA ADEO, Initiative-Package-Epic-Story, backlog, roadmap, processus delivery |
+| Ava | 💻 | ADEO Technical Lead | ADEO | Global Ready framework, standards techniques, architecture, security, quality, DevOps, API, data |
+| HAL9000 | 📋 | Product Manager | Product Management | PRD, requirements, stakeholder alignment, user interviews |
+| MU/TH/UR | 🎯 | Product Strategist | Product Management | Vision produit, roadmap, OKR, positionnement stratégique, go-to-market |
+| The Tabernacle | 📈 | Data Product Manager | Product Management | Métriques, analytics, A/B testing, décisions data-driven, KPI tracking |
+| WOPR | 🚀 | Growth Product Manager | Product Management | Growth loops, viral mechanics, activation, onboarding, growth experiments |
+| L7 | 🏗️ | Platform Product Manager | Product Management | API design, developer experience, platform strategy, ecosystem, Mozaic Vue |
+| Central | 🤖 | AI Product Manager | Product Management | AI/ML strategy, model evaluation, responsible AI, training data, AI UX patterns |
 | Lisa | 🤝 | Customer Success PM | Product Management | Customer health scoring, churn prevention, expansion revenue, customer journey |
-| Victoria | 🛡️ | Compliance & Governance PM | Product Management | Regulatory compliance, privacy, security requirements, audit, risk assessment |
+| Zed | 🛡️ | Compliance & Governance PM | Product Management | Regulatory compliance, privacy, security requirements, audit, risk assessment |
 | Rachel | 💰 | Pricing & Monetization PM | Product Management | Pricing strategy, packaging, monetization models, price elasticity, value metrics |
 | Sally | 🎨 | UX Designer | Design & Research | User research, interaction design, UI patterns, experience strategy, Mozaic Vue |
 | Emma | 🔍 | User Researcher | Design & Research | User interviews, usability testing, persona development, journey mapping, behavioral analysis |
 | Amelia | 💻 | Developer Agent | Engineering | Story execution, TDD, code implementation, Mozaic Vue alignment |
 | Winston | 🏗️ | Architect | Engineering | Distributed systems, cloud infrastructure, API design, scalable patterns |
-| Quinn | 🧪 | QA Engineer | Engineering | Test automation, API testing, E2E testing, coverage analysis |
-| Barry | 🚀 | Quick Flow Solo Dev | Engineering | Rapid spec creation, lean implementation, minimum ceremony |
-| Mary | 📊 | Business Analyst | Analysis & Process | Market research, competitive analysis, requirements elicitation, domain expertise |
-| Bob | 🏃 | Scrum Master | Analysis & Process | Sprint planning, story preparation, agile ceremonies, backlog management |
+| Cortona | 🧪 | QA Engineer | Engineering | Test automation, API testing, E2E testing, coverage analysis |
+| Jarvis | 🚀 | Quick Flow Solo Dev | Engineering | Rapid spec creation, lean implementation, minimum ceremony |
+| S.E.T.H. | 📊 | Business Analyst | Analysis & Process | Market research, competitive analysis, requirements elicitation, domain expertise |
+| TARS | 🏃 | Scrum Master | Analysis & Process | Sprint planning, story preparation, agile ceremonies, backlog management |
 
 ## Statistiques
 
 - **Total**: 19 agents
-- **ADEO Spécialisés**: 2 agents (Pierre, Giovanni)
+- **ADEO Spécialisés**: 2 agents (Euclid, Ava)
 - **Product Management**: 11 agents
 - **Design & Research**: 2 agents
 - **Engineering**: 4 agents
@@ -37,4 +37,4 @@
 
 - **Version actuelle**: 6.1.0
 - **Date**: 10 mars 2026
-- **Nouveauté**: Giovanni (ADEO Technical Lead) avec Global Ready framework
+- **Nouveauté**: Ava (ADEO Technical Lead) avec Global Ready framework

@@ -48,7 +48,7 @@ Every agent includes multiple specialized workflows for their domain, from Produ
 
 ## 🤖 ADEO Specialized Agents
 
-### Pierre 🏢 - ADEO Delivery Manager
+### Euclid 🏢 - ADEO Delivery Manager
 **Product Management Expert** - Mandatory consultation for:
 - Product Lifecycle (6 phases, 5 Gates)
 - ADEO Product Operating Model (7 dimensions)
@@ -56,18 +56,18 @@ Every agent includes multiple specialized workflows for their domain, from Produ
 - Backlog construction and roadmap planning
 - Business Terms and canonical glossary
 
-[📖 See Pierre's full documentation →](src/bmm/agents/adeo-delivery-manager.agent.yaml)
+[📖 See Euclid's full documentation →](src/bmm/agents/adeo-delivery-manager.agent.yaml)
 
-### Giovanni 💻 - ADEO Technical Lead  
+### Ava 💻 - ADEO Technical Lead  
 **Technical Excellence Expert** - Mandatory consultation for:
 - Global Ready framework (9 domains, 248 requirements)
 - Technical maturity assessment (levels 2-6)
 - Architecture, security, quality, DevOps standards
 - Finance compliance (ESG, Tax, Internal Control)
 
-[📖 See Giovanni's full documentation →](src/bmm/agents/adeo-technical-lead.agent.yaml)
+[📖 See Ava's full documentation →](src/bmm/agents/adeo-technical-lead.agent.yaml)
 
-**⚠️ Agent Routing Rules**: Always consult Pierre for Product Management topics and Giovanni for Technical Excellence. See [AGENT-ROUTING-RULES.md](AGENT-ROUTING-RULES.md) for mandatory consultation policies.
+**⚠️ Agent Routing Rules**: Always consult Euclid for Product Management topics and Ava for Technical Excellence. See [AGENT-ROUTING-RULES.md](AGENT-ROUTING-RULES.md) for mandatory consultation policies.
 
 ## Design System
 
