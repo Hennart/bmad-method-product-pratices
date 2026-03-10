@@ -1,5 +1,105 @@
 # Changelog
 
+## [6.1.0] - 2026-03-10
+
+### 🎯 Major Features - ADEO Global Ready Framework
+
+* **New Agent: Giovanni** - ADEO Technical Lead expert specializing in Global Ready 2026 framework
+  * Master of 9 technical domains with 248 requirements
+  * Maturity level assessment (levels 2-6)
+  * CSV-based single source of truth architecture
+  * Interactive workflow guides for each domain
+
+* **Global Ready 2026 Framework** - Comprehensive technical excellence framework
+  * 248 requirements across 9 domains
+  * Progressive maturity levels from Foundation (2) to Excellence (6)
+  * Clean assessment template ready for product teams
+
+### 💰 New Domain: Finance (34 requirements)
+
+* **Finance Data & KPIs** (13 req)
+  * ESG/CSRD reporting data points
+  * Sales and Margin data governance
+  * Tax archiving compliance (5-10 years history)
+
+* **Finance Digital Services** (11 req)
+  * Company Registration APIs integration
+  * Check Ethics API compliance
+  * Accounting system connectivity (FIT/SAP)
+  * Invoice generation automation
+
+* **Internal Control By Design** (10 req)
+  * Segregation of Duties (SoD) matrix
+  * Risk assessment & prioritization
+  * Hylia/Workday role integration
+
+### 📊 Complete Domain Coverage
+
+1. **APIzation** (12 req) - API design, coverage, experience
+2. **Data** (14 req) - Data mastery, provider, quality
+3. **Data Compliance** (18 req) - GDPR, personal data, retention
+4. **Dev Factory** (15 req) - CI/CD, delivery, deployment
+5. **Finance** (34 req) - Financial governance & control ⭐ NEW
+6. **Operations** (90 req) - Change, FinOps, hosting, incidents, observability, reliability
+7. **Product Management** (10 req) - Technical debt management
+8. **Quality** (15 req) - Delivery, implementation, management
+9. **Security** (40 req) - Application lifecycle, IAM, infrastructure, risk
+
+### 🛠️ New Tools & Infrastructure
+
+* **manage_global_ready.py** - Python CLI tool for requirement management
+  * `stats` - Display comprehensive statistics
+  * `domains` - List all domains and counts
+  * `list <domain>` - Show requirements by domain
+  * `search <query>` - Search across all requirements
+  * `update <id> <status>` - Update assessment status
+
+* **CSV Single Source of Truth**
+  * `data/2026-Global-Ready-Requirements.csv` - 248 requirements
+  * Clean template (all assessments empty)
+  * Easy to edit, version, and track
+  * Machine-readable for automation
+
+### 📚 Documentation & Workflows
+
+* **11 Workflow Guides**
+  * [GRA] Global Ready Assessment - Complete product evaluation
+  * [GRI] Global Ready Improve - Maturity improvement planning
+  * [API] APIzation Guide - API design & best practices
+  * [DAT] Data Management - Data ownership & quality
+  * [DCO] Data Compliance - GDPR & personal data
+  * [DFA] Dev Factory - CI/CD automation
+  * [FIN] Finance Guide - Financial governance ⭐ NEW
+  * [OPS] Operations Guide - Operational excellence
+  * [QUA] Quality Guide - Testing & quality assurance
+  * [SEC] Security Guide - Comprehensive security
+  * [DBT] Debt Management - Technical debt tracking
+
+* **Comprehensive Documentation**
+  * `ADEO-AGENT-TECHNICAL-LEAD-FR.md` - Giovanni documentation (French)
+  * `README-GIOVANNI.md` - Usage guide
+  * `GIOVANNI-CREATION-SUMMARY.md` - Creation summary
+  * `CSV-REFACTORING-SUMMARY.md` - Architecture decisions
+  * `data/README.md` - CSV management guide
+
+### 🏗️ Architecture Improvements
+
+* CSV-based single source of truth pattern
+* Agent references external data via `knowledge_sources`
+* Separation of concerns: Data (CSV) vs Logic (Agent)
+* Easy updates without agent redeployment
+* Version control friendly format
+
+### 🎯 Target Audience
+
+* ADEO product teams
+* Technical leads & architects
+* DevOps & SRE teams
+* Security & compliance officers
+* Finance & governance teams
+
+---
+
 ## [6.0.4]
 
 ### 🎁 Features
